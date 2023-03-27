@@ -1,4 +1,4 @@
-package baykov.daniel.services;
+package baykov.daniel.jokesapp.services;
 
 public interface JokeService {
 

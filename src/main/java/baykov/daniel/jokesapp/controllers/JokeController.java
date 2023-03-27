@@ -1,6 +1,6 @@
-package baykov.daniel.controllers;
+package baykov.daniel.jokesapp.controllers;
 
-import baykov.daniel.services.JokeService;
+import baykov.daniel.jokesapp.services.JokeService;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.RequestMapping;
